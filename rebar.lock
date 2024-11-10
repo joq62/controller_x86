@@ -20,5 +20,5 @@
   0},
  {<<"rd">>,
   {git,"https://github.com/joq62/rd.git",
-       {ref,"dd0eb6d9f932df1ce54b1764d428dbb89a0705a7"}},
+       {ref,"9fd05e185cb579fa031fd925d5190eef5a3db4cb"}},
   0}].
